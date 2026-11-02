@@ -1,0 +1,14 @@
+# build artifacts
+*.apk.idsig
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
+.DS_Store
+
+# analysis scratch
+*_extracted/
+*_jadx/
+*_apktool/
+*.dex
